@@ -1,7 +1,7 @@
 ### 👋 Hi, This is Faraz Ahmed Khan 👋
 ### 📱 I am interested in iOS/Mobile Development
 ### 📫 Reach me via email: farazahmedkhan18@gmail.com
-### About me ![](https://about.me/farazahmedkhan)
+### [About me](https://about.me/farazahmedkhan)
 <!--
 **ProgrammerFaraz/ProgrammerFaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
